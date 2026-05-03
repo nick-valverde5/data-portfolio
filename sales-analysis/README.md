@@ -41,6 +41,9 @@ The **Central region** generated the highest total sales, making it the stronges
 
 Sales show a steady upward trend over time, suggesting consistent business growth and increasing demand.
 
+### 📊 Revenue Distribution
+The top 5 products account for only ~1.5% of total revenue, indicating that sales are widely distributed across many products rather than concentrated in a few top performers.
+
 ---
 
 ## 💡 Business Implications
@@ -48,6 +51,9 @@ Sales show a steady upward trend over time, suggesting consistent business growt
 * High-performing products should be prioritized in marketing and inventory decisions
 * Strong regions can be leveraged for expansion strategies
 * Upward sales trends indicate positive business momentum
+
+### 📌 Recommendation
+The business should prioritize high-performing regions like Central while exploring strategies to improve performance in lower-performing regions.
 
 ---
 
@@ -59,6 +65,3 @@ Sales show a steady upward trend over time, suggesting consistent business growt
 * `region_sales.png'
 * 'sales_over_time.png'– Visualizations
 
----
-### 📊 Revenue Distribution
-The top 5 products account for only ~1.5% of total revenue, indicating that sales are widely distributed across many products rather than concentrated in a few top performers.
