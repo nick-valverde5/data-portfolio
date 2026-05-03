@@ -53,8 +53,10 @@ Sales show a steady upward trend over time, suggesting consistent business growt
 
 ## 📎 Project Files
 
-* `analysis.ipynb` – Data cleaning, analysis, and visualization
+* `superstore_sales_analysis.ipynb' – Data cleaning, analysis, and visualization
 * `SuperStoreOrders.csv` – Dataset
-* `charts/` – Visualizations
+* `Top_10_products.png'
+* `region_sales.png'
+* 'Sales_over_time.png'– Visualizations
 
 ---
