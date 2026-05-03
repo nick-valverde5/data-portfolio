@@ -1,4 +1,6 @@
 # 📊 SuperStore Sales Analysis
+## 📊 Visualization
+![Top Products](top_products.png)
 
 ## 📌 Overview
 
