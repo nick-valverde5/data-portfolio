@@ -60,3 +60,5 @@ Sales show a steady upward trend over time, suggesting consistent business growt
 * 'sales_over_time.png'– Visualizations
 
 ---
+### 📊 Revenue Distribution
+The top 5 products account for only ~1.5% of total revenue, indicating that sales are widely distributed across many products rather than concentrated in a few top performers.
