@@ -25,9 +25,9 @@ This project analyzes retail sales data to identify key revenue drivers, evaluat
 
 ### 🥇 Top Products
 
-The *Eldon File Cart – Single Width* is the top-performing product by total sales, indicating strong demand and a significant contribution to overall revenue.
+The *Eldon File Cart – Single Width* is the top-performing product by total sales of ~ $31k , indicating strong demand and a significant contribution to overall revenue.
 
-*(Optional: add % or dollar value if available)*
+
 
 ---
 
@@ -54,9 +54,9 @@ Sales show a steady upward trend over time, suggesting consistent business growt
 ## 📎 Project Files
 
 * `superstore_sales_analysis.ipynb' – Data cleaning, analysis, and visualization
-* `SuperStoreOrders.csv` – Dataset
-* `Top_10_products.png'
+* `superstoreorders.csv` – Dataset
+* `top_10_products.png'
 * `region_sales.png'
-* 'Sales_over_time.png'– Visualizations
+* 'sales_over_time.png'– Visualizations
 
 ---
