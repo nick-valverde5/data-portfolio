@@ -1,0 +1,30 @@
+# Healthcare Finance & Operations Dashboard
+
+## Project Overview
+Developed an interactive healthcare finance dashboard in Tableau analyzing revenue, cost, profitability, payer mix, and collection performance across healthcare departments.
+
+## Tools Used
+- Tableau
+- Excel
+- SQL concepts
+- Healthcare KPI analysis
+
+## Business Questions
+- Which departments generate the highest net profit?
+- Which payer groups contribute the most revenue?
+- How do collection rates vary across payer types?
+- How does revenue trend over time?
+
+## Key Insights
+- Cardiology generated the highest departmental net profit.
+- Medicaid and Medicare represented the largest revenue contributors.
+- Collection rates remained relatively stable across payer groups.
+- Monthly revenue trends showed moderate seasonal fluctuation.
+
+## Dashboard Features
+- KPI cards
+- Revenue trend analysis
+- Department profitability analysis
+- Payer mix reporting
+- Collection rate monitoring
+- Executive summary insights
