@@ -27,4 +27,4 @@ This project analyzes e-commerce sales data using Tableau to identify revenue tr
 - Promote top-selling products more aggressively
 
 ## Dashboard Preview
-![E-Commerce Dashboard](ecommerce_dashboard.png)
+![E-Commerce Dashboard](ecommerce_dashboard.PNG)
