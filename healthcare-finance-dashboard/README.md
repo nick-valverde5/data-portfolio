@@ -3,6 +3,9 @@
 ## Project Overview
 Developed an interactive healthcare finance dashboard in Tableau analyzing revenue, cost, profitability, payer mix, and collection performance across healthcare departments.
 
+## Live Dashboard
+
+[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/nicholas.valverde/viz/HealthcareFinanceDashboard_17781867464240/HealthcareFinanceOperationsDashboard?publish=yes)
 ## Tools Used
 - Tableau
 - Excel
