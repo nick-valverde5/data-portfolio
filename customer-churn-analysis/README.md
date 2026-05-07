@@ -105,7 +105,7 @@ Add your dashboard screenshot here.
 
 Example:
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](customer_churn_dashboard.PNG)
 
 ---
 
