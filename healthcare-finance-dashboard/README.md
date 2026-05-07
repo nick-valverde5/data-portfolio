@@ -28,3 +28,6 @@ Developed an interactive healthcare finance dashboard in Tableau analyzing reven
 - Revenue by payer type
 - Collection rate by payer type
 - Executive summary and key insights
+## Dashboard Preview
+
+![Dashboard Preview](dashboard.PNG)
