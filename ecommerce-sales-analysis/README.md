@@ -109,3 +109,9 @@ The interactive Tableau dashboard includes:
 - I had to learn how pandas aggregation functions worked
 - Choosing the right chart types for dashboard readability took multiple revisions
 - Interpreting the business meaning behind the numbers was harder than writing the code itself
+
+## What I Learned
+- Improved my SQL and Tableau skills through hands-on practice
+- Learned how to communicate technical findings in business terms
+- Practiced building dashboards that focus on clarity and usability
+- Became more comfortable troubleshooting data and visualization issues
