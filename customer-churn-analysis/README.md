@@ -101,9 +101,6 @@ Created dashboards and charts to visualize:
 
 ## Dashboard Preview
 
-Add your dashboard screenshot here.
-
-Example:
 
 ![Dashboard Preview](customer_churn_dashboard.PNG)
 
