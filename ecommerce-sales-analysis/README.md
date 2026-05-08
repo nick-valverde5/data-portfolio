@@ -92,13 +92,20 @@ The interactive Tableau dashboard includes:
 - Dataset
 - Dashboard screenshots
 
-## Dashboard Preview
-(Add Tableau dashboard screenshot here)
+## What I Actually Did
+- Cleaned ecommerce sales data using Python and pandas
+- Checked for missing values and inconsistent formatting
+- Converted the sales column into numeric format for analysis
+- Identified top-performing products and regions
+- Used pandas groupby functions to analyze category performance
+- Created visualizations to compare revenue trends
+- Built charts showing sales performance across product categories
+- Summarized which products contributed most to revenue
+- Practiced explaining findings in business terms instead of only technical results
 
-## Live Dashboard
-(Add Tableau Public link here)
-
-## Author
-Nicholas Valverde  
-BS Data Analytics & Information Science  
-San Jose State University
+## Challenges
+- The sales column initially imported as text instead of numeric values
+- Some charts produced incorrect results until I cleaned the data types
+- I had to learn how pandas aggregation functions worked
+- Choosing the right chart types for dashboard readability took multiple revisions
+- Interpreting the business meaning behind the numbers was harder than writing the code itself
