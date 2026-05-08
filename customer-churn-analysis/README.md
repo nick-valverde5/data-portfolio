@@ -127,3 +127,9 @@ This project demonstrates the ability to use SQL and data visualization tools to
 - Learned how to communicate technical findings in business terms
 - Practiced building dashboards that focus on clarity and usability
 - Became more comfortable troubleshooting data and visualization issues
+
+## Key Findings
+- Customers with month-to-month contracts had the highest churn risk.
+- Customers with longer tenure were less likely to churn.
+- Higher monthly charges appeared to be connected with increased churn risk.
+- Contract type was one of the clearest patterns in the analysis.
