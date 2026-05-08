@@ -121,3 +121,9 @@ Created dashboards and charts to visualize:
 ## Project Outcome
 
 This project demonstrates the ability to use SQL and data visualization tools to analyze business problems, uncover actionable insights, and communicate findings effectively in a data analyst workflow.
+
+## What I Learned
+- Improved my SQL and Tableau skills through hands-on practice
+- Learned how to communicate technical findings in business terms
+- Practiced building dashboards that focus on clarity and usability
+- Became more comfortable troubleshooting data and visualization issues
