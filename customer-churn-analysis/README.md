@@ -142,3 +142,6 @@ This project demonstrates the ability to use SQL and data visualization tools to
 
 ## Use of AI
 I used AI as a learning assistant to help explain SQL errors, improve README wording, and practice how to communicate findings more clearly. I reviewed and edited the final project myself.
+
+## Dashboard Preview
+![Dashboard](customer_churn_dashboard.PNG)
