@@ -133,3 +133,12 @@ This project demonstrates the ability to use SQL and data visualization tools to
 - Customers with longer tenure were less likely to churn.
 - Higher monthly charges appeared to be connected with increased churn risk.
 - Contract type was one of the clearest patterns in the analysis.
+
+## Business Recommendations
+- Focus retention efforts on month-to-month customers.
+- Offer discounts or loyalty incentives to customers with high monthly charges.
+- Track churn by contract type each month to spot risk early.
+- Use tenure and contract type as key metrics in future customer retention reports.
+
+## Use of AI
+I used AI as a learning assistant to help explain SQL errors, improve README wording, and practice how to communicate findings more clearly. I reviewed and edited the final project myself.
