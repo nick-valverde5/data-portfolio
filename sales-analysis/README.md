@@ -162,3 +162,9 @@ This project demonstrates the ability to analyze large sales datasets, identify 
 - I had difficulty organizing the dashboard layout at first
 - Understanding how Tableau aggregated measures took time to learn
 - I revised the dashboard multiple times to improve clarity and presentation
+
+## What I Learned
+- Improved my SQL and Tableau skills through hands-on practice
+- Learned how to communicate technical findings in business terms
+- Practiced building dashboards that focus on clarity and usability
+- Became more comfortable troubleshooting data and visualization issues
