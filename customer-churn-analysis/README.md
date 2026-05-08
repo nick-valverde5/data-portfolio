@@ -6,6 +6,8 @@ This project analyzes customer churn data to identify the key factors contributi
 
 Customer churn is a major business problem because retaining existing customers is often more cost-effective than acquiring new ones. Using SQL, this project explores customer behavior patterns, contract types, monthly charges, and demographic trends associated with churn risk.
 
+## Why I Built This
+I built this project to practice using SQL and Tableau to analyze customer behavior and identify churn patterns that could impact business retention.
 ---
 
 ## Business Problem
@@ -140,6 +142,12 @@ This project demonstrates the ability to use SQL and data visualization tools to
 - Track churn by contract type each month to spot risk early.
 - Use tenure and contract type as key metrics in future customer retention reports.
 
+## Analyst Interpretation
+One of the strongest patterns in the analysis was the higher churn rate among customers with month-to-month contracts. This suggests customers without long-term commitments may require additional retention efforts or incentives.
+
+## Conclusion
+This project helped me improve my SQL querying, dashboard design, and ability to communicate business findings using data visualization tools.
 ## Use of AI
 I used AI as a learning assistant to help explain SQL errors, improve README wording, and practice how to communicate findings more clearly. I reviewed and edited the final project myself.
+
 
