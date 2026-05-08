@@ -1,126 +1,104 @@
-# Customer Churn Analysis
+# Ecommerce Sales Analysis
 
-## Project Overview
-
-This project analyzes customer churn data to identify the key factors contributing to customer attrition and provide actionable business recommendations to improve customer retention.
-
-Customer churn is a major business problem because retaining existing customers is often more cost-effective than acquiring new ones. Using SQL, this project explores customer behavior patterns, contract types, monthly charges, and demographic trends associated with churn risk.
-
----
+## Overview
+This project analyzes ecommerce sales performance to identify revenue trends, top-performing products, regional sales performance, and business opportunities. The goal of this analysis was to transform raw sales data into actionable insights that support strategic business decision-making.
 
 ## Business Problem
-
-A telecommunications company is experiencing customer loss and wants to understand:
-
-* Which customers are most likely to churn
-* What factors contribute to churn
-* How customer retention can be improved
-
-The goal of this analysis is to uncover business insights that can help reduce churn and improve long-term customer retention.
-
----
+Ecommerce businesses rely heavily on sales performance data to optimize profitability, improve product strategy, and identify high-performing regions. This project focuses on uncovering key revenue drivers and operational insights using SQL, Python, and Tableau.
 
 ## Tools Used
-
-* SQL (MySQL)
-* Tableau
-* Excel
-* GitHub
-
----
+- SQL
+- Python (Pandas, Matplotlib)
+- Tableau
+- Excel
 
 ## Dataset
+The dataset contains ecommerce order information including:
+- Product categories
+- Sales revenue
+- Profit
+- Regions
+- Customer segments
+- Order dates
+- Shipping information
 
-The dataset contains customer account information including:
+## Key Questions
+- Which regions generate the highest revenue?
+- Which products perform best?
+- Which categories are the most profitable?
+- How do sales trends change over time?
+- Which customer segments contribute the most revenue?
 
-* Customer demographics
-* Contract type
-* Monthly charges
-* Payment methods
-* Internet services
-* Customer tenure
-* Churn status
+## Data Cleaning
+The dataset was cleaned and prepared by:
+- Removing duplicate records
+- Handling missing values
+- Standardizing column names
+- Converting sales and profit columns to numeric data types
+- Formatting dates for trend analysis
 
----
+## SQL Analysis
+Key SQL techniques used:
+- Aggregate functions
+- GROUP BY analysis
+- ORDER BY ranking
+- Revenue calculations
+- Profitability analysis
 
-## Analysis Process
+Example query:
 
-### 1. Data Exploration
+```sql
+SELECT 
+    Region,
+    ROUND(SUM(Sales), 2) AS total_sales,
+    ROUND(SUM(Profit), 2) AS total_profit
+FROM orders
+GROUP BY Region
+ORDER BY total_sales DESC;
+```
 
-* Reviewed dataset structure
-* Identified important customer attributes
-* Examined churn distribution
-
-### 2. SQL Analysis
-
-Used SQL queries to analyze:
-
-* Overall churn rate
-* Churn by contract type
-* Monthly charges by churn status
-* Customer demographics
-* Payment methods and churn trends
-
-### 3. Data Visualization
-
-Created dashboards and charts to visualize:
-
-* Churn trends
-* Revenue impact
-* Customer segmentation
-* High-risk customer groups
-
----
+## Tableau Dashboard
+The interactive Tableau dashboard includes:
+- Total sales KPI
+- Total profit KPI
+- Regional sales comparison
+- Monthly sales trends
+- Top-performing products
+- Category performance breakdown
 
 ## Key Insights
-
-* Customers on month-to-month contracts had the highest churn rates.
-* Customers with higher monthly charges were more likely to churn.
-* Electronic check payment users showed elevated churn behavior.
-* Long-term contracts were associated with significantly lower churn rates.
-
----
+- The West region generated the highest overall revenue
+- Technology products produced the strongest profit margins
+- Sales increased significantly during holiday periods
+- A small number of products contributed a large percentage of total revenue
+- Some categories generated high sales but low profitability
 
 ## Business Recommendations
+- Increase marketing investment in high-performing regions
+- Focus inventory planning on top-performing products
+- Improve profitability strategies for low-margin categories
+- Use seasonal trends to optimize promotional campaigns
 
-* Introduce loyalty incentives for month-to-month customers.
-* Offer retention discounts for high-risk customer groups.
-* Encourage customers to transition to longer-term contracts.
-* Improve customer engagement strategies for high monthly charge customers.
-
----
+## What I Learned
+- How to clean and prepare ecommerce sales data
+- How to analyze revenue and profitability trends using SQL
+- How to build interactive dashboards in Tableau
+- How to communicate business insights through data visualization
 
 ## Project Files
-
-* SQL queries
-* Dataset
-* Tableau dashboard
-* Dashboard screenshots
-
----
+- SQL queries
+- Tableau dashboard
+- Python analysis notebook
+- Dataset
+- Dashboard screenshots
 
 ## Dashboard Preview
+(Add Tableau dashboard screenshot here)
 
-Add your dashboard screenshot here.
+## Live Dashboard
+(Add Tableau Public link here)
 
-Example:
-
-![Dashboard Preview](ecommerce_dashboard.PNG)
-
----
-
-## Skills Demonstrated
-
-* SQL querying
-* Data cleaning
-* Business analysis
-* Data visualization
-* Dashboard development
-* Analytical thinking
-* Business insights communication
-
----
-
-## Project Outcome
-
-This project demonstrates the ability to use SQL and data visualization tools to analyze business problems, uncover actionable insights, and communicate findings effectively in a data analyst workflow.
+## Author
+Nicholas Valverde  
+BS Data Analytics & Information Science  
+San Jose State University
