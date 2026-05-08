@@ -146,3 +146,19 @@ Example:
 ## Project Outcome
 
 This project demonstrates the ability to analyze large sales datasets, identify meaningful business insights, and communicate findings through dashboards and visualizations commonly used in real-world data analyst roles.
+
+## What I Actually Did
+- Analyzed sales trends by region and product category
+- Used SQL to calculate total sales and average order values
+- Compared sales performance between regions
+- Built KPI cards in Tableau to highlight revenue metrics
+- Created line charts to visualize monthly sales trends
+- Used sorting and filtering to identify top-performing products
+- Practiced creating dashboards designed for business reporting
+- Wrote recommendations based on regional sales performance
+## Challenges
+- Tableau initially changed my dimensions when switching chart types
+- Formatting currency fields correctly required additional adjustments
+- I had difficulty organizing the dashboard layout at first
+- Understanding how Tableau aggregated measures took time to learn
+- I revised the dashboard multiple times to improve clarity and presentation
