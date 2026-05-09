@@ -49,8 +49,4 @@ Developed an interactive healthcare finance dashboard in Tableau analyzing reven
 - Choosing visuals that clearly communicated financial trends required experimentation
 - Translating financial analysis into concise business recommendations was challenging
 
-## What I Learned
-- Improved my SQL and Tableau skills through hands-on practice
-- Learned how to communicate technical findings in business terms
-- Practiced building dashboards that focus on clarity and usability
-- Became more comfortable troubleshooting data and visualization issues
+
