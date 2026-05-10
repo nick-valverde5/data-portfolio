@@ -113,9 +113,6 @@ The dashboard includes:
 
 ## Dashboard Preview
 
-Add your dashboard screenshot here.
-
-Example:
 
 ![Dashboard Preview](top_10_products.png)
 
