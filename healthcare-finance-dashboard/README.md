@@ -32,21 +32,5 @@ Developed an interactive healthcare finance dashboard in Tableau analyzing reven
 - Collection rate by payer type
 - Executive summary and key insights
 
-## What I Actually Did
-- Built a healthcare finance dashboard focused on operational performance metrics
-- Imported financial data into Tableau for analysis
-- Created KPIs for revenue, expenses, and operational efficiency
-- Compared department-level financial performance
-- Built trend charts to monitor monthly financial changes
-- Practiced presenting financial information in a simple visual format
-- Focused on making the dashboard useful for management reporting
-- Added business recommendations based on performance trends
-
-## Challenges
-- Organizing multiple KPIs on one dashboard without clutter was difficult
-- I had to learn how to properly format financial metrics and currency values
-- Some charts displayed incorrect aggregations until I adjusted the settings
-- Choosing visuals that clearly communicated financial trends required experimentation
-- Translating financial analysis into concise business recommendations was challenging
 
 
