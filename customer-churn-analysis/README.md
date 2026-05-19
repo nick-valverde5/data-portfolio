@@ -102,8 +102,7 @@ Created dashboards and charts to visualize:
 ---
 
 ## Live Dashboard
-[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/HealthcareFinanceDashboard_17781867464240/HealthcareFinanceOperationsDashboard)
-
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Book3_17781577719180/Dashboard1)
 ---
 
 ## Skills Demonstrated
