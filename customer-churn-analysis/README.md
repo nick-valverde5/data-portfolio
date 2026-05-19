@@ -101,10 +101,8 @@ Created dashboards and charts to visualize:
 
 ---
 
-## Dashboard Preview
-
-
-![Dashboard Preview](customer_churn_dashboard.PNG)
+## Live Dashboard
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/HealthcareFinanceDashboard_17781867464240/HealthcareFinanceOperationsDashboard)
 
 ---
 
