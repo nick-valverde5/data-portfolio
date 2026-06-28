@@ -144,7 +144,6 @@ One of the strongest patterns in the analysis was the higher churn rate among cu
 
 ## Conclusion
 This project helped me improve my SQL querying, dashboard design, and ability to communicate business findings using data visualization tools.
-## Use of AI
-I used AI as a learning assistant to help explain SQL errors, improve README wording, and practice how to communicate findings more clearly. I reviewed and edited the final project myself.
+
 
 
